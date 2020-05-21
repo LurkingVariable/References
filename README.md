@@ -14,3 +14,4 @@
 #Online Courses
 * Industrials Analysis in R https://www.datacamp.com/courses/industrial-analysis-using-r
 * IBM certificate Python Data Science https://www.edx.org/professional-certificate/python-data-science
+* suspicious statistics, engineering meltdowns and deadly data https://www.rigb.org/christmas-lectures/watch/2019/secrets-and-lies
