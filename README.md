@@ -8,7 +8,8 @@
 
 #Books
 * R for Biomedical Statistics https://a-little-book-of-r-for-biomedical-statistics.readthedocs.io/en/latest/src/biomedicalstats.html
-
+* Handbook of Biological Statistics: http://www.biostathandbook.com/#print
+* R Companion for Handbook of Biological Statistics: http://rcompanion.org/rcompanion/
 
 #Online Courses
 * Industrials Analysis in R https://www.datacamp.com/courses/industrial-analysis-using-r
