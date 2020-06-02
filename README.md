@@ -6,6 +6,7 @@
 * Statistical Rethinking in R and STAN https://xcelab.net/rm/statistical-rethinking/
 * Analyzing Financial and Economic Data with R https://www.msperlin.com/blog/post/2019-11-01-new-package-simfinr/
 * R cheatsheets: https://github.com/rstudio/cheatsheets/
+* R gotchas: http://arrgh.tim-smith.us/syntax.html
 
 #Books
 * R for Biomedical Statistics https://a-little-book-of-r-for-biomedical-statistics.readthedocs.io/en/latest/src/biomedicalstats.html
