@@ -21,3 +21,4 @@
 
 #Blogs
 * Baseball with R: https://baseballwithr.wordpress.com/
+* Interactive statistics visualizations: https://rpsychologist.com/
