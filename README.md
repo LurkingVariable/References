@@ -13,6 +13,7 @@
 * Handbook of Biological Statistics: http://www.biostathandbook.com/#print
 * R Companion for Handbook of Biological Statistics: http://rcompanion.org/rcompanion/
 * Altman statistical notes in BMJ: https://www-users.york.ac.uk/~mb55/pubs/pbstnote.htm
+* Time Series forecasting: https://otexts.com/fpp2/
 
 #Online Courses
 * Industrials Analysis in R https://www.datacamp.com/courses/industrial-analysis-using-r
@@ -22,3 +23,6 @@
 #Blogs
 * Baseball with R: https://baseballwithr.wordpress.com/
 * Interactive statistics visualizations: https://rpsychologist.com/
+
+#Other
+* Financial Calculators - https://buyupside.com/
