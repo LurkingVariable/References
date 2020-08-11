@@ -14,12 +14,14 @@
 * R Companion for Handbook of Biological Statistics: http://rcompanion.org/rcompanion/
 * Altman statistical notes in BMJ: https://www-users.york.ac.uk/~mb55/pubs/pbstnote.htm
 * Time Series forecasting: https://otexts.com/fpp2/
+* Introduction to statistical learning in R: https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
 
 #Online Courses
 * Industrials Analysis in R https://www.datacamp.com/courses/industrial-analysis-using-r
 * IBM certificate Python Data Science https://www.edx.org/professional-certificate/python-data-science
 * suspicious statistics, engineering meltdowns and deadly data https://www.rigb.org/christmas-lectures/watch/2019/secrets-and-lies
 * cBioPortal tutorials for R: https://www.cbioportal.org/tutorials
+* Video lectures for "Introduction to statistical learning in R": https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
 
 #Blogs
 * Baseball with R: https://baseballwithr.wordpress.com/
