@@ -30,3 +30,6 @@
 #Other
 * Financial Calculators - https://buyupside.com/
 * Financial Calculators - https://financeformulas.net
+
+#metadata
+* ncov - https://github.com/nextstrain/ncov/blob/50e8948ee5fecfbc06995103999154de550bdf11/data/metadata.tsv
