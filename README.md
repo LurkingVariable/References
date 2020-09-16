@@ -33,4 +33,4 @@
 
 #metadata
 * ncov - https://github.com/nextstrain/ncov/blob/50e8948ee5fecfbc06995103999154de550bdf11/data/metadata.tsv 
-      ***Why archive metadata? It can be yanked for capricious reasons - https://github.com/nextstrain/ncov/issues/264
+      * *Why archive metadata? Because it can be yanked for capricious reasons - https://github.com/nextstrain/ncov/issues/264
