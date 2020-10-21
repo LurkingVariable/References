@@ -4,7 +4,7 @@
 * Statistical Inference via Data Science (A ModernDive into R and the tidyverse) https://moderndive.com/
 * Linear, Bayesian, Random Forest Models in the tidyverse - https://www.tidymodels.org/start/
 * Statistical Rethinking in R and STAN https://xcelab.net/rm/statistical-rethinking/
-       \t*Statistical Rethinking in python https://github.com/gbosquechacon/statrethink_course_in_pymc3
+  *Statistical Rethinking in python https://github.com/gbosquechacon/statrethink_course_in_pymc3
 * Analyzing Financial and Economic Data with R https://www.msperlin.com/blog/post/2019-11-01-new-package-simfinr/
 * R cheatsheets: https://github.com/rstudio/cheatsheets/
 * R gotchas: http://arrgh.tim-smith.us/syntax.html
