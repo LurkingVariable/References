@@ -31,3 +31,6 @@
 #Other
 * Financial Calculators - https://buyupside.com/
 * Financial Calculators - https://financeformulas.net
+
+#Datasets 
+* 50GB digitized high-resolution histology slides of lung adenocarcinoma and their subtypes according to the consensus opinion of three pathologists  https://bmirds.github.io/LungCancer/
