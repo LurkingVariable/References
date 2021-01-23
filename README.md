@@ -37,6 +37,6 @@
 * 50GB digitized high-resolution histology slides of lung adenocarcinoma and their subtypes according to the consensus opinion of three pathologists  https://bmirds.github.io/LungCancer/
 
 #Websites to monitor
-* Monitors - https://distill.io/#extensions-section,  https://github.com/huginn/huginn
+* Monitors - https://distill.io/#extensions-section, https://visualping.io/, https://github.com/huginn/huginn
 * https://brooklyninvestor.blogspot.com/
 * https://www.hbsinvestmentclub.com/conference/
