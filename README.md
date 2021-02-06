@@ -40,3 +40,13 @@
 * Monitors - https://distill.io/#extensions-section, https://visualping.io/, https://github.com/huginn/huginn
 * https://brooklyninvestor.blogspot.com/
 * https://www.hbsinvestmentclub.com/conference/
+
+#Financial data
+* historical - https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=MSFT&apikey=demo
+* live or historical - https://stackoverflow.com/questions/13458132/json-formatted-stock-quote-api-live-or-historical
+* live or historical - https://iexcloud.io/docs/api/#stocks, https://iexcloud.io/pricing/ (includes excel plugin)
+* option data - https://query2.finance.yahoo.com/v7/finance/options/stro, time is epoch time type, it is the total of seconds counted from 00:00 1/1/1970.
+* visualization projects - https://github.com/finos/perspective
+* machine learning - https://github.com/ScottfreeLLC/AlphaPy
+
+
