@@ -48,5 +48,5 @@
 * option data - https://query2.finance.yahoo.com/v7/finance/options/stro, time is epoch time type, it is the total of seconds counted from 00:00 1/1/1970.
 * visualization projects - https://github.com/finos/perspective
 * machine learning - https://github.com/ScottfreeLLC/AlphaPy
-
+* CUSIP <-> ticker - https://www.sec.gov/data/foiadocsfailsdatahtm, https://www.sec.gov/data, https://formthirteen.com/blog/2
 
