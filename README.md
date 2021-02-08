@@ -29,11 +29,8 @@
 * Baseball with R: https://baseballwithr.wordpress.com/
 * Interactive statistics visualizations: https://rpsychologist.com/
 
-#Other
-* Financial Calculators - https://buyupside.com/
-* Financial Calculators - https://financeformulas.net
-
 #Datasets 
+* table of r packages to access data - https://www.computerworld.com/article/3109890/these-r-packages-import-sports-weather-stock-data-and-more.html
 * 50GB digitized high-resolution histology slides of lung adenocarcinoma and their subtypes according to the consensus opinion of three pathologists  https://bmirds.github.io/LungCancer/
 
 #Websites to monitor
@@ -42,6 +39,8 @@
 * https://www.hbsinvestmentclub.com/conference/
 
 #Financial data
+* Financial Calculators - https://buyupside.com/
+* Financial Calculators - https://financeformulas.net
 * historical - https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=MSFT&apikey=demo
 * live or historical - https://stackoverflow.com/questions/13458132/json-formatted-stock-quote-api-live-or-historical
 * live or historical - https://iexcloud.io/docs/api/#stocks, https://iexcloud.io/pricing/ (includes excel plugin)
