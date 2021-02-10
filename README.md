@@ -32,6 +32,7 @@
 #Datasets 
 * table of r packages to access data - https://www.computerworld.com/article/3109890/these-r-packages-import-sports-weather-stock-data-and-more.html
 * 50GB digitized high-resolution histology slides of lung adenocarcinoma and their subtypes according to the consensus opinion of three pathologists  https://bmirds.github.io/LungCancer/
+* Biology datasets - https://www.biostars.org/p/490100/
 
 #Websites to monitor
 * Monitors - https://distill.io/#extensions-section, https://visualping.io/, https://github.com/huginn/huginn
