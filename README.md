@@ -38,6 +38,7 @@
 * Monitors - https://distill.io/#extensions-section, https://visualping.io/, https://github.com/huginn/huginn
 * https://brooklyninvestor.blogspot.com/
 * https://www.hbsinvestmentclub.com/conference/
+* http://www.sugarconebiotech.com/?page_id=37
 
 #Financial data
 * Financial Calculators - https://buyupside.com/
