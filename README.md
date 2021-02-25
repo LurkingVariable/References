@@ -1,6 +1,7 @@
 # Online References
 
 #Statistics / R
+* Most statistical tests can be thought of as linear models: https://lindeloev.github.io/tests-as-linear/
 * An introduction to statistical learning in R: https://statlearning.com/
 * Statistical Inference via Data Science (A ModernDive into R and the tidyverse) https://moderndive.com/
 * Linear, Bayesian, Random Forest Models in the tidyverse - https://www.tidymodels.org/start/
