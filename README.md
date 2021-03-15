@@ -43,6 +43,7 @@
 * https://brooklyninvestor.blogspot.com/
 * https://www.hbsinvestmentclub.com/conference/
 * http://www.sugarconebiotech.com/?page_id=37
+* https://oddlotarbitrage.com/blog/category/tender-offers-us/
 
 #Financial data
 * Financial Calculators - https://buyupside.com/
