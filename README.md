@@ -35,6 +35,9 @@
 * 50GB digitized high-resolution histology slides of lung adenocarcinoma and their subtypes according to the consensus opinion of three pathologists  https://bmirds.github.io/LungCancer/
 * Biology datasets - https://www.biostars.org/p/490100/
 
+#Journal Articles
+* How to Read a Clinical Trial Paper. A Lesson in Basic Trial Statistics https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3380258/
+
 #Websites to monitor
 * Monitors - https://distill.io/#extensions-section, https://visualping.io/, https://github.com/huginn/huginn
 * https://brooklyninvestor.blogspot.com/
