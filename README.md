@@ -16,6 +16,7 @@
 * R for Biomedical Statistics https://a-little-book-of-r-for-biomedical-statistics.readthedocs.io/en/latest/src/biomedicalstats.html
 * Handbook of Biological Statistics: http://www.biostathandbook.com/#print
 * R Companion for Handbook of Biological Statistics: http://rcompanion.org/rcompanion/
+* Statistics for biologists: https://www.nature.com/collections/qghhqm
 * Doug Altman statistical notes in BMJ: https://www-users.york.ac.uk/~mb55/pubs/pbstnote.htm
 * Time Series forecasting: https://otexts.com/fpp2/
 * Introduction to statistical learning in R: https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
