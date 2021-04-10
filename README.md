@@ -28,6 +28,7 @@
 * suspicious statistics, engineering meltdowns and deadly data https://www.rigb.org/christmas-lectures/watch/2019/secrets-and-lies
 * cBioPortal tutorials for R: https://www.cbioportal.org/tutorials
 * Video lectures for "Introduction to statistical learning in R": https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
+* Value Investing: From Graham to Buffett and Beyond, 2nd Edition Companion Site: https://www.wiley.com/WileyCDA/Section/id-832262.html
 
 #Blogs
 * Baseball with R: https://baseballwithr.wordpress.com/
