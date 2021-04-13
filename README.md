@@ -11,6 +11,7 @@
 * R cheatsheets: https://github.com/rstudio/cheatsheets/
 * R gotchas: http://arrgh.tim-smith.us/syntax.html
 * Hands-on programming with R: https://rstudio-education.github.io/hopr/
+* Metanalysis with R: https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/dmetar.html
 
 #Books
 * R for Biomedical Statistics https://a-little-book-of-r-for-biomedical-statistics.readthedocs.io/en/latest/src/biomedicalstats.html
