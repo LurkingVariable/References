@@ -22,6 +22,7 @@
 * Doug Altman statistical notes in BMJ: https://www-users.york.ac.uk/~mb55/pubs/pbstnote.htm
 * Time Series forecasting: https://otexts.com/fpp2/
 * Introduction to statistical learning in R: https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
+* Buffet book recommendations: https://www.bookwormomaha.com/2020-berkshire-annual-meeting-book-selections
 
 #Online Courses
 * Industrials Analysis in R https://www.datacamp.com/courses/industrial-analysis-using-r
