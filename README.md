@@ -34,7 +34,8 @@
 #Blogs
 * Baseball with R: https://baseballwithr.wordpress.com/
 * Interactive statistics visualizations: https://rpsychologist.com/
-*  Introductory resources for analyzing biotech clinical trial results: http://www.pharmagellan.com/blog/clinical-trial-resources
+* Introductory resources for analyzing biotech clinical trial results: http://www.pharmagellan.com/blog/clinical-trial-resources
+* R/Python tutorials in life science: https://enjoylifescience.com/ 
 
 #Datasets 
 * table of r packages to access data - https://www.computerworld.com/article/3109890/these-r-packages-import-sports-weather-stock-data-and-more.html
